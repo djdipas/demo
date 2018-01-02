@@ -4,6 +4,6 @@ more text
 
 adding a line:wq
 new branch:wq
-:wq
 
+changing:wq
 
